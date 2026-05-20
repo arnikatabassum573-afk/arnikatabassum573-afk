@@ -34,7 +34,7 @@ const arnika = {
   learning : ["React", "MongoDB", "Express.js"],
   current  : "Building Todo Manager App 📋",
   passion  : "Clean UI + Scalable Code",
-  contact  : "arnikatabassum1@gmail.com",
+  contact  : "arnikatabassum573@gmail.com",
   fun      : "I think I am funny 😄",
 };
 ```
