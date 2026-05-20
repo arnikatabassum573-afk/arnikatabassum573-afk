@@ -9,7 +9,7 @@
 
 <!-- PROFILE VIEWS + FOLLOWERS -->
 <div align="center">
- <img src="https://img.shields.io/github/followers/mahfuz-7148?style=for-the-badge&color=blue&label=FOLLOWERS" alt="Followers" />
+ <img src="https://img.shields.io/github/followers/arnikatabassum573-afk?style=for-the-badge&color=blue&label=FOLLOWERS" alt="Followers" />
   &nbsp;
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-0d47a1?style=flat-square" alt="Status" />
   &nbsp;
