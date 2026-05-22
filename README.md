@@ -1,54 +1,73 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0a0f,50:0d1b2a,100:0a0a0f&height=200&section=header&text=ARNIKA%20TABASSUM&fontSize=52&fontColor=e2f0ff&animation=fadeIn&fontAlignY=55&desc=Frontend%20Developer%20%E2%80%A2%20MERN%20Stack%20Enthusiast&descSize=16&descAlignY=75&descColor=64b5f6" width="100%" alt="Header"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:020617,20:0f172a,45:1e1b4b,75:4c1d95,100:8b5cf6&text=Arnika%20Tabassum&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=✦%20Frontend%20Developer%20•%20MERN%20Stack%20Enthusiast%20•%20Bangladesh%20🇧🇩%20✦&descSize=18&descAlignY=60&descColor=c4b5fd" width="100%" />
 
 <br/>
 
-<!-- PROFILE VIEWS + FOLLOWERS -->
-<div align="center">
- <img src="https://img.shields.io/github/followers/arnikatabassum573-afk?style=for-the-badge&color=blue&label=FOLLOWERS" alt="Followers" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-0d47a1?style=flat-square" alt="Status" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Frontend%20Dev-1565c0?style=flat-square" alt="Focus" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1200&color=C084FC&center=true&vCenter=true&width=950&lines=👋+Welcome+to+my+GitHub+Profile!;⚛️+Building+Modern+Full-Stack+Applications;💻+React+•+Node.js+•+MongoDB+•+TailwindCSS;🚀+Passionate+About+Clean+UI+and+Scalable+Code;🌱+Always+Learning+New+Technologies!" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=arnikatabassum573-afk&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS&labelColor=0f172a" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/arnikatabassum573-afk?style=for-the-badge&color=7c3aed&label=FOLLOWERS&logo=github&logoColor=white&labelColor=0f172a" />
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-22c55e?style=for-the-badge&labelColor=0f172a" />
+&nbsp;
+<img src="https://img.shields.io/badge/LOCATION-BANGLADESH-f59e0b?style=for-the-badge&labelColor=0f172a" />
+
 </div>
 
 <br/>
 
 ---
 
-<!-- TWO COLUMN LAYOUT: ABOUT + QUICK STATS -->
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+# 🧑‍💻 About Me
+
+<table>
 <tr>
 <td width="55%" valign="top">
 
-### 〔 01 〕 About Me
-
-```ts
+```typescript
 const arnika = {
-  role     : "Frontend Developer",
-  location : "Bangladesh 🇧🇩",
-  learning : ["React", "MongoDB", "Express.js"],
-  current  : "Building Todo Manager App 📋",
-  passion  : "Clean UI + Scalable Code",
-  contact  : "arnikatabassum573@gmail.com",
-  fun      : "I think I am funny 😄",
+  name      : "Arnika Tabassum",
+  role      : "Frontend Developer",
+  stack     : [
+    "React", "Node.js",
+    "MongoDB", "Express.js", "TailwindCSS"
+  ],
+  location  : "Bangladesh 🇧🇩",
+  building  : "Full-Stack MERN Projects 🚀",
+  learning  : "Advanced React & APIs 🌱",
+  passion   : "Clean UI + Scalable Code 💜",
+  email     : "arnikatabassum573@gmail.com",
+  available : true,
+  funFact   : "I debug with console.log 😄",
 };
 ```
 
+### 🌟 Developer Journey
+
+- 🔭 Currently building MERN Stack Projects
+- 🌱 Exploring Advanced React Patterns & APIs
+- 👯 Open for Collaboration & Open Source
+- 💬 Ask me about React, Tailwind & JavaScript
+- ⚡ Fun fact: I think in components 😂
+
 </td>
-<td width="45%" valign="top">
+<td width="45%" valign="top" align="center">
 
-### 〔 02 〕 This Week's Focus
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 
-```
-Frontend  ████████████░░  80%
-Backend   ███████░░░░░░░  48%
-UI/UX     █████████░░░░░  64%
-DSA       █████░░░░░░░░░  36%
+<br/><br/>
+
+### ⚡ Weekly Focus
+
+```text
+Frontend   ████████████░░  80%
+Backend    ███████░░░░░░░  48%
+UI / UX    █████████░░░░░  64%
+DSA        █████░░░░░░░░░  36%
 ```
 
 </td>
@@ -57,101 +76,195 @@ DSA       █████░░░░░░░░░  36%
 
 ---
 
-<!-- TECH STACK -->
-### 〔 03 〕 Tech Stack
+# ⚒️ Tech Stack
 
 <div align="center">
 
-**Frontend**
+### 🎨 Frontend Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
 
-**Backend & Database**
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark&perline=5" />
+### ⚙️ Backend & Database
 
-**Tools & Workflow**
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark&perline=5" />
+<br/><br/>
+
+### 🛠️ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman,vercel,netlify&theme=dark" />
 
 </div>
 
 ---
 
-<!-- GITHUB STATS -->
-### 〔 04 〕 GitHub Stats
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=arnikatabassum573-afk&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=64b5f6&icon_color=64b5f6&text_color=c9d1d9&rank_icon=github" width="48%" alt="GitHub Stats" />
-&nbsp;
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arnikatabassum573-afk&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=64b5f6&text_color=c9d1d9" width="40%" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arnikatabassum573-afk&theme=tokyonight" width="98%" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arnikatabassum573-afk&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arnikatabassum573-afk&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arnikatabassum573-afk&theme=tokyonight&utcOffset=6" width="32%" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=arnikatabassum573-afk&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=C084FC&currStreakLabel=FFFFFF&sideLabels=E2E8F0&dates=94A3B8" width="65%" />
 
 </div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arnikatabassum573-afk&bg_color=0D1117&color=C084FC&line=8B5CF6&point=E879F9&area=true&hide_border=true&radius=16&custom_title=Arnika's%20Contribution%20Graph" width="98%" />
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=arnikatabassum573-afk&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" width="100%" />
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+## 🏥 Medipeak
+
+<img src="https://img.shields.io/badge/MERN_STACK-Full%20Stack-8b5cf6?style=for-the-badge&labelColor=1e1b4b" />
+
+<br/><br/>
+
+✨ Medical Camp Management System with:
+
+- 🩺 Camp Management
+- 💳 Stripe Payments
+- 🔐 JWT Authentication
+- 📱 Fully Responsive UI
 
 <br/>
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,tailwind" />
 
-<img src="https://streak-stats.demolab.com/?user=arnikatabassum573-afk&theme=github-dark-blue&hide_border=true&background=0d1117&ring=64b5f6&fire=64b5f6&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" width="60%" alt="GitHub Streak" />
+<br/><br/>
+
+<a href="https://github.com/arnikatabassum573-afk/Medipeak">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+## 🔍 Lost & Found
+
+<img src="https://img.shields.io/badge/MERN_STACK-Full%20Stack-7c3aed?style=for-the-badge&labelColor=1e1b4b" />
+
+<br/><br/>
+
+✨ Smart Lost & Found Platform with:
+
+- 🔎 Search & Filter
+- 📌 Item Tracking
+- 🔐 JWT Authentication
+- 📱 Mobile Responsive
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=react,express,mongodb,firebase" />
+
+<br/><br/>
+
+<a href="https://github.com/arnikatabassum573-afk/lost-and-found-fullStack">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+## 🍲 Recipe React
+
+<img src="https://img.shields.io/badge/Frontend_Project-6d28d9?style=for-the-badge&labelColor=1e1b4b" />
+
+<br/><br/>
+
+✨ Modern Recipe Sharing Platform with:
+
+- 🍔 Recipe Discovery
+- 🔥 Firebase Authentication
+- 🎨 Modern Clean UI
+- 📱 Fully Responsive
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=react,firebase,mongodb,tailwind" />
+
+<br/><br/>
+
+<a href="https://github.com/arnikatabassum573-afk/recipe-react">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
-<!-- CONTRIBUTION GRAPH -->
-### 〔 05 〕 Contribution Activity
+# 🌐 Connect With Me
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arnikatabassum573-afk&bg_color=0d1117&color=64b5f6&line=1565c0&point=e2f0ff&area=true&area_color=0d47a1&hide_border=true&radius=8" width="98%" alt="Contribution Graph" />
-
-</div>
-
----
-
-<!-- PROFILE SUMMARY -->
-### 〔 06 〕 Profile Summary
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arnikatabassum573-afk&theme=github_dark" width="98%" alt="Profile Summary" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arnikatabassum573-afk&theme=github_dark" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arnikatabassum573-afk&theme=github_dark" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arnikatabassum573-afk&theme=github_dark&utcOffset=6" width="32%" />
-
-</div>
-
----
-
-<!-- CONNECT -->
-### 〔 07 〕 Let's Connect
-
-<div align="center">
-
-<a href="mailto:arnikatabassum1@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-0d47a1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<a href="mailto:arnikatabassum573@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://github.com/arnikatabassum573-afk" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d47a1" alt="GitHub" />
+<a href="https://github.com/arnikatabassum573-afk">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/arnikatabassum">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br/><br/>
 
-> *"First, solve the problem. Then, write the code."*
-> — John Johnson
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%" />
+
+<br/><br/>
+
+### 💜 "First, solve the problem. Then, write the code."
 
 </div>
 
 ---
 
-<!-- FOOTER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0a0f,50:0d1b2a,100:0a0a0f&height=80&section=footer&animation=fadeIn" width="100%" alt="Footer"/>
-
-<sub>⭐ Star my repos if you find them useful!</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:8b5cf6,25:7c3aed,50:4c1d95,75:1e293b,100:020617&section=footer&text=Thanks%20For%20Visiting!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=⭐%20Star%20my%20repositories%20if%20you%20find%20them%20useful!&descSize=18&descAlignY=62&descColor=c4b5fd" width="100%" />
 
 </div>
