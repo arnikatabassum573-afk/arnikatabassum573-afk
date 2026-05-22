@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:020617,20:0f172a,45:1e1b4b,75:4c1d95,100:8b5cf6&text=Arnika%20Tabassum&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=✦%20Frontend%20Developer%20•%20MERN%20Stack%20Enthusiast%20•%20Bangladesh%20🇧🇩%20✦&descSize=18&descAlignY=60&descColor=c4b5fd" width="100%" />
@@ -44,15 +45,15 @@ const arnika = {
   available : true,
   funFact   : "I debug with console.log 😄",
 };
-```
+````
 
 ### 🌟 Developer Journey
 
-- 🔭 Currently building MERN Stack Projects
-- 🌱 Exploring Advanced React Patterns & APIs
-- 👯 Open for Collaboration & Open Source
-- 💬 Ask me about React, Tailwind & JavaScript
-- ⚡ Fun fact: I think in components 😂
+* 🔭 Currently building MERN Stack Projects
+* 🌱 Exploring Advanced React Patterns & APIs
+* 👯 Open for Collaboration & Open Source
+* 💬 Ask me about React, Tailwind & JavaScript
+* ⚡ Fun fact: I think in components 😂
 
 </td>
 <td width="45%" valign="top" align="center">
@@ -135,101 +136,6 @@ DSA        █████░░░░░░░░░  36%
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=arnikatabassum573-afk&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" width="100%" />
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
-## 🏥 Medipeak
-
-<img src="https://img.shields.io/badge/MERN_STACK-Full%20Stack-8b5cf6?style=for-the-badge&labelColor=1e1b4b" />
-
-<br/><br/>
-
-✨ Medical Camp Management System with:
-
-- 🩺 Camp Management
-- 💳 Stripe Payments
-- 🔐 JWT Authentication
-- 📱 Fully Responsive UI
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,tailwind" />
-
-<br/><br/>
-
-<a href="https://github.com/arnikatabassum573-afk/Medipeak">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-<td width="33%" valign="top">
-
-## 🔍 Lost & Found
-
-<img src="https://img.shields.io/badge/MERN_STACK-Full%20Stack-7c3aed?style=for-the-badge&labelColor=1e1b4b" />
-
-<br/><br/>
-
-✨ Smart Lost & Found Platform with:
-
-- 🔎 Search & Filter
-- 📌 Item Tracking
-- 🔐 JWT Authentication
-- 📱 Mobile Responsive
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=react,express,mongodb,firebase" />
-
-<br/><br/>
-
-<a href="https://github.com/arnikatabassum573-afk/lost-and-found-fullStack">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-<td width="33%" valign="top">
-
-## 🍲 Recipe React
-
-<img src="https://img.shields.io/badge/Frontend_Project-6d28d9?style=for-the-badge&labelColor=1e1b4b" />
-
-<br/><br/>
-
-✨ Modern Recipe Sharing Platform with:
-
-- 🍔 Recipe Discovery
-- 🔥 Firebase Authentication
-- 🎨 Modern Clean UI
-- 📱 Fully Responsive
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=react,firebase,mongodb,tailwind" />
-
-<br/><br/>
-
-<a href="https://github.com/arnikatabassum573-afk/recipe-react">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-</tr>
-</table>
 
 </div>
 
